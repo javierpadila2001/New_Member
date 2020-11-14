@@ -1,1 +1,5 @@
-#This code inherit everything from MotorController.c and then use this information to overide and apply for another things
+#
+
+char CANID = " 0xCAN_ID";
+
+char CANMESSAGE = "CAN_MESSAGE";
